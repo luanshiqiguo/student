@@ -1,2 +1,1 @@
-# studentInfo
-Introduction to Computer
+#student
