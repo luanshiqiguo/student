@@ -1,0 +1,56 @@
+html,body,#root {
+    margin: 0;
+    padding:0;
+    height: 100%;
+    /*background-color: #f2f2f2;*/
+}
+#wrapper{
+    min-height:100%;
+    height: auto !important;
+    position: relative;
+    float:left;
+    width:100%;
+    background:#ECECEC;
+}
+
+#footer{
+    position:absolute;
+    bottom:0;
+    left:0;
+    height:60px;
+    width:100%;
+    float:left;
+    padding:15px 0;
+    background:#fff;
+}
+
+#content{
+    padding-bottom: 60px;
+    float:left;
+    width:100%;
+}
+
+#content #main{
+    margin:20px 40px;
+    /*background: #fff;*/
+    /*min-height: 500px;*/
+}
+
+#footer .version{
+    float:right;
+}
+
+.main-box{
+    background: #fff;
+    min-height: 500px;
+    overflow:hidden;
+}
+
+.test{
+    background-color:red;
+}
+
+/*font*/
+body{
+    font-family: Helvetica Neue,Helvetica,PingFang SC,Hiragino Sans GB,Microsoft YaHei,SimSun,sans-serif;
+}

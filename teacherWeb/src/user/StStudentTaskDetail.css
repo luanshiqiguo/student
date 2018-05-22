@@ -1,0 +1,35 @@
+.task-detail{
+    margin-left:20px;
+}
+
+.task-detail .choice-question,.task-detail {
+    margin-left:20px;
+}
+
+.choice-question h3{
+    font-size: 18px;
+    padding: 8px 2px;
+}
+
+.task-detail .choice-question ul{
+    padding-left: 10px;
+}
+
+.task-detail .choice-question ul>li{
+    padding: 4px 0;
+}
+
+.task-detail .choice-question ul>li>span{
+    font-size: 14px;
+    padding: 4px 10px;
+}
+
+.task-detail .choice-question .highlight{
+    border: 1px solid #f50;
+    border-radius: 6px;
+}
+
+.task-detail .short-question p{
+    font-size: 14px;
+    padding: 8px 10px;
+}

@@ -1,0 +1,40 @@
+.info-item{
+    min-height:58px;
+    border-bottom:1px #ececec solid;
+    margin-right: 10px;
+}
+
+.me-content{
+    width:75%;
+    min-height:720px;
+    min-width: 500px;
+    margin:auto;
+    background-color:#fff;
+    padding:30px 50px 70px 40px;
+}
+
+.info-title{
+    font-size:1.5em;
+    color:#333;
+    padding:10px;
+    background-color: #f7f7f7;
+}
+
+.info-title>span{
+    padding-left: 10px;
+}
+
+.StMe-title{
+    padding-bottom: 10px;
+    border-bottom:1px #ececec solid;
+}
+
+.tabs{
+    padding-top:20px;
+}
+
+.submitInfo{
+    display:flex;
+    justify-content: center;
+    margin-top: 30px;
+}

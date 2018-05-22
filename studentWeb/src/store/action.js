@@ -1,0 +1,15 @@
+/**
+ * Created by crazycooler on 2017/3/5.
+ */
+export const ACTION_SIGN_IN = 'ACTION_SIGN_IN';
+export const ACTION_SIGN_OUT = 'ACTION_SIGN_OUT';
+export const ACTION_FRESH_TOKEN = 'ACTION_FRESH_TOKEN';
+
+
+export const ACTION_UPDATE_TASK = 'ACTION_UPDATE_TASK';
+
+export const ACTION_UPDATE_TASK_LISTS = 'ACTION_UPDATE_TASK_LISTS';
+
+export const ACTION_UPDATE_STU_INFO = 'ACTION_UPDATE_STU_INFO';
+
+export const ACTION_CLEAR_TASK_LISTS = 'ACTION_CLEAR_TASK_LISTS';

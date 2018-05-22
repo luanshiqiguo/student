@@ -1,0 +1,32 @@
+.task-cell {
+    position: relative;
+}
+
+.task-cell .task-hide-icon.remove{
+    position: absolute;
+    right: 0;
+    width: 22px;
+    cursor: pointer;
+}
+
+.task-cell .task-hide-icon.edit{
+    position: absolute;
+    right: 22px;
+    width: 22px;
+    cursor: pointer;
+}
+
+.task-cell .task-hide-icon {
+    line-height: 18px;
+    display: none;
+    font-size:18px;
+}
+
+.task-bank-list .ant-table-row:hover .task-hide-icon {
+    display: inline-block;
+}
+
+.task-hide-icon:hover{
+    color: #108ee9;
+}
+

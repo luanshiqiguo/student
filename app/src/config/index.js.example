@@ -1,0 +1,8 @@
+/**
+ * Created by coder on 2017/2/23.
+ */
+export default {
+//hostUrl : 'http://10.141.36.120/student/api'
+	//hostUrl : 'http://192.168.1.102/student/api',
+	hostUrl:'http://mt.wtulip.com/student/api',
+}

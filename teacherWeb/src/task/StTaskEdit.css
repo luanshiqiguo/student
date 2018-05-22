@@ -1,0 +1,33 @@
+.task-edit .st-form-item{
+    line-height: 24px;
+    padding:5px 0;
+    overflow: hidden;
+}
+
+.task-edit .st-form-item .label{
+    width:120px;
+    float:left;
+    text-align: right;
+    padding:3px 10px;
+}
+
+.task-edit .st-form-item .content{
+    padding-left: 120px;
+    padding-right:30px;
+}
+
+.task-edit .submit{
+    display:flex;
+    width:100%;
+    justify-content:center;
+}
+
+.task-edit .submit>button{
+    margin:5px;
+}
+
+.task-edit .error-panel{
+    color:red;
+    padding:20px 50px;
+    font-size: 14px;
+}

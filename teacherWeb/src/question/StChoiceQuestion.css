@@ -1,0 +1,21 @@
+.choice-question{
+    margin-left:20px;
+}
+
+.choice-question ul{
+    padding-left: 10px;
+}
+
+.choice-question ul>li{
+    padding: 4px 0;
+}
+
+.choice-question ul>li>span{
+    font-size: 14px;
+    padding: 4px 10px;
+}
+
+.choice-question .highlight{
+    border: 1px solid #f50;
+    border-radius: 6px;
+}

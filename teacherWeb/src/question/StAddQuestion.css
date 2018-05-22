@@ -1,0 +1,19 @@
+.option-add{
+    margin:10px
+}
+
+li>Input{
+    height: 40px;
+    font-size: 20px;
+}
+
+.question{
+    font-weight: bold;
+    font-size: 2em;
+    height:40px
+}
+
+.options{
+    height:40px;
+    font-size: 1.5em;
+}

@@ -1,0 +1,21 @@
+#change-log{
+    padding:40px;
+}
+
+#change-log h1{
+    font-size: 32px;
+}
+
+#change-log h3{
+    font-size: 24px;
+}
+
+#change-log li{
+    font-size:14px;
+}
+
+.page-header{
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+}

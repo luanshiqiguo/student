@@ -1,0 +1,44 @@
+.choice-question{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    padding:20px;
+    background-color: #fafafa;
+    border-radius: 20px;
+}
+
+.choice-question ul{
+    padding-left: 10px;
+}
+
+.choice-question ul>li{
+    padding: 4px 0;
+}
+
+.choice-question ul>li>span{
+    font-size: 14px;
+    padding: 4px 10px;
+}
+
+.choice-question .highlight{
+    border: 1px solid #f50;
+    border-radius: 6px;
+}
+
+.choice-question .rightAnswer{
+    border: 2px solid forestgreen;
+    border-radius: 6px;
+}
+
+.choice-question .wrongAnswer{
+    border: 2px solid red;
+    border-radius: 6px;
+}
+
+.choice-question .choice-item{
+    display: block;
+    height: 30px;
+    line-height: 30px;
+}
+.choice-item{
+    font-size: 14px;
+}

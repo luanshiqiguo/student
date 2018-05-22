@@ -1,0 +1,26 @@
+.questions-for-select>.selected-panel {
+    float: left;
+    padding: 20px 5px 10px;
+    margin-left: 20px;
+    line-height: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.questions-for-select>.table-toolbar {
+    float:right;
+    padding:20px 5px 10px 5px;
+}
+
+.questions-for-select>.table-panel {
+    float:left;
+    width:100%;
+}
+
+.questions-for-select .options-cell {
+    width:200px;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    white-space:nowrap;
+    color:rgba(0, 0, 0, 0.65);
+}

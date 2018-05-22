@@ -1,0 +1,12 @@
+/**
+ * Created by crazycooler on 2017/3/5.
+ */
+export default {
+	company:'wTulip',
+	product:'*****',
+	version:'0.0.1',
+	author:'',
+	email:'wtulip78@qq.com',
+	hostUrl:'http://localhost:3000/student/api',
+	//hostUrl:'http://mt.wtulip.com/student/api',
+}
